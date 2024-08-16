@@ -8,3 +8,6 @@
 def example(will):
   return willllllliam
 ```
+- [ ] get github ed working
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
